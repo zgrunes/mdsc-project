@@ -1,0 +1,35 @@
+computeEigenfunctions starting on 2024/4/13 15:42:59.0 
+Hostname Zachs-MacBook-Pro-2.local
+ 
+Path /Users/zachgrunes/Downloads/NLSA-master/examples/co2/data/nlsa/processed_data_den/CO2_x1-1_y1-1_mlo_197601-202211_idxE1-+1-48_idxT48-563/CO2_x1-1_y1-1_mlo_197601-202211_idxE1-+1-48_idxT48-563/l2_nN516/d5_eps1_b2_lLim-40-40_nL200_kNN50_idxE1_idxT1-516/l2_pwr_p0.2_nN516/nNS516/alpha0.50_eps1_b2_lLim-40-40_nL200_bs_nPhi201/central_fdOrd4_dt1_asym_idxPhi1-+1-201_diff_inv_eps0.0001 
+Number of eigenfunctions       = 201 
+Basis function incices         = idx1-+1-201 
+computeOperator starting on 2024/4/13 15:42:59.0 
+Hostname Zachs-MacBook-Pro-2.local
+ 
+Path /Users/zachgrunes/Downloads/NLSA-master/examples/co2/data/nlsa/processed_data_den/CO2_x1-1_y1-1_mlo_197601-202211_idxE1-+1-48_idxT48-563/CO2_x1-1_y1-1_mlo_197601-202211_idxE1-+1-48_idxT48-563/l2_nN516/d5_eps1_b2_lLim-40-40_nL200_kNN50_idxE1_idxT1-516/l2_pwr_p0.2_nN516/nNS516/alpha0.50_eps1_b2_lLim-40-40_nL200_bs_nPhi201/central_fdOrd4_dt1_asym_idxPhi1-+1-201_diff_inv_eps0.0001 
+Number of samples               = 516, 
+Number of realizations          = 1, 
+Number of temporal samples      = 516, 
+Finite-difference order         = 4, 
+Finite-difference type          = central, 
+Antisymmetrization              = 1, 
+Number of basis functions       = 201, 
+Basis function incices          = idx1-+1-201 
+READPHI 0.0110 
+FD 0.0043 
+GEN 0.0015 
+ANTISYM 3.375040e-04 
+computeOperator finished on 2024/4/13 15:42:59.0 
+computeOperator starting on 2024/4/13 15:42:59.0 
+Regularization type           = inv, 
+Regularization parameter      = 0.0001, 
+REGV 0.0042 
+computeOperator finished on 2024/4/13 15:42:59.0 
+EIGV 0.0200 
+EIGVL 0.0094 
+ENGY 0.0019 
+EVALEIG 0.0146 
+EVALEIGL 0.0020 
+WRITEEIG 0.1176 
+computeEigenfunctions finished on 2024/4/13 15:42:59.2 

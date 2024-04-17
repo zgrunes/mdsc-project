@@ -1,0 +1,11 @@
+computeDensity starting on 2024/4/13 15:42:57.9 
+Hostname Zachs-MacBook-Pro-2.local
+ 
+Number of samples              = 516, 
+Bandwidth                      = 0.6584, 
+READK 1/1 1/1 0.0162 
+VB 1/1 1/1 0.0051 
+EXP 1/1 1/1 0.0016 
+NORMALIZE 0.0018 
+WRITEQ 0.0035 
+computeDensity finished on 2024/4/13 15:42:58.0 

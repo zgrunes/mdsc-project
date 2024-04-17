@@ -1,0 +1,22 @@
+computeEigenfunctions starting on 2024/4/13 15:42:58.7 
+Hostname Zachs-MacBook-Pro-2.local
+ 
+Path /Users/zachgrunes/Downloads/NLSA-master/examples/co2/data/nlsa/processed_data_den/CO2_x1-1_y1-1_mlo_197601-202211_idxE1-+1-48_idxT48-563/CO2_x1-1_y1-1_mlo_197601-202211_idxE1-+1-48_idxT48-563/l2_nN516/d5_eps1_b2_lLim-40-40_nL200_kNN50_idxE1_idxT1-516/l2_pwr_p0.2_nN516/nNS516/alpha0.50_eps1_b2_lLim-40-40_nL200_bs_nPhi201 
+Number of samples            = 516, 
+Gaussian width (epsilon)     = 0.2160, 
+Weight normalization (alpha) = 0.5000, 
+computeOperator starting on 2024/4/13 15:42:58.8 
+Hostname Zachs-MacBook-Pro-2.local
+ 
+Number of samples            = 516, 
+Gaussian width (epsilon)     = 0.2160, 
+Weight normalization (alpha) = 0.5000, 
+READDIST 516 samples, 266256 matrix elements 0.0185 
+WMAT, 266256 nonzero entries, 516.0000 avg. per row 0.0063, 
+NORMALIZATION (Markov) 0.0004, 
+NORMALIZATION (alpha) = 0.5000  0.0054, 
+WRITE 0.0040, 
+computeOperator finished on 2024/4/13 15:42:58.8 
+SVDP 0.0672 
+WRITEPHI 0.0685 
+computeEigenfunctions finished on 2024/4/13 15:42:59.0 

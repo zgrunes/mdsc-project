@@ -1,0 +1,31 @@
+computePairwiseDistances starting on 2024/4/13 15:42:57.5 
+Hostname Zachs-MacBook-Pro-2.local
+ 
+Path /Users/zachgrunes/Downloads/NLSA-master/examples/co2/data/nlsa/processed_data/CO2_x1-1_y1-1_mlo_197601-202211_idxE1-+1-48_idxT48-563/l2_nN516 
+Local distance function class           = nlsaLocalDistanceFunction  
+Number of query samples                 = 516, 
+Number of test samples                  = 516, 
+Number of nearest neighbors             = 516, 
+Number of realizations for query        = 1, 
+Number of realizations for test         = 1, 
+Number of query batches                 = 1, 
+Number of test batches                  = 1, 
+Max batch size                          = 516, 
+Min batch size                          = 516, 
+Number of components                    = 1, 
+Max compoment physical space dimension  = 1, 
+Min component physical space dimension  = 1, 
+Max compoment embedding space dimension = 48, 
+Min component embedding space dimension = 48, 
+------------------------------------ 
+Global query batch      1/1 
+Realization       1/1 
+Local batch       1/1 
+Number of samples 516 
+ALLOCATE 1/1 0.0001 
+READQ component 1/1, realization 1/1, local batch 1/1, global batch 1/1 (516 samples) 0.0053 
+READT component 1/1, realization 1/1, local batch 1/1, global batch 1/1 (516 samples) 0.0020 
+DMAT component 1/1, realization 1-1, local batches 1-1, global batches 1-1 0.0084 
+MINK component 1/1, realization 1-1, local batches 1-1, global batches 1-1 (516 sorted samples)  0.0428 
+WRITEDIST realization 1/1, local batch 1/1, global batch 1/1  0.0779 
+computePairwiseDistances finished on 2024/4/13 15:42:57.7 

@@ -1,0 +1,13 @@
+function s = experimentStr(P)
+    % String identifier for data analysis experiment
+    s = strjoin_e({P.var ...
+                   strjoin_e(P.tLim, '-') ...
+                   sprintf('emb%i', P.embWindow) ...
+                   P.kernel}, ...
+                   '_');
+    if isfield(P, 'den')
+        if P.den
+            s = [s '_den'];
+        end
+    end
+end

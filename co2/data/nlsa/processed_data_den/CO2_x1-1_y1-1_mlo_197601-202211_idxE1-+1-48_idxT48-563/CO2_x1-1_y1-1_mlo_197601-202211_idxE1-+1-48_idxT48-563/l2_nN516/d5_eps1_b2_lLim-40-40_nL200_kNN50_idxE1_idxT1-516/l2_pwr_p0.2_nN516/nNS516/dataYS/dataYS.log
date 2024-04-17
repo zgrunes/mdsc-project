@@ -1,0 +1,22 @@
+symmetrizeDistances starting on 2024/4/13 15:42:58.3 
+Hostname Zachs-MacBook-Pro-2.local
+ 
+Path /Users/zachgrunes/Downloads/NLSA-master/examples/co2/data/nlsa/processed_data_den/CO2_x1-1_y1-1_mlo_197601-202211_idxE1-+1-48_idxT48-563/CO2_x1-1_y1-1_mlo_197601-202211_idxE1-+1-48_idxT48-563/l2_nN516/d5_eps1_b2_lLim-40-40_nL200_kNN50_idxE1_idxT1-516/l2_pwr_p0.2_nN516/nNS516 
+Number of realizations             = 1 
+Total number of samples            = 516 
+Total number of batches            = 1 
+Number of input nearest neighbors  = 516 
+Number of output nearest neighbors = 516 
+ALLOCATE 266256 nonzero elements 
+ALLOCATE 2.563070e-04 nonzero elements 
+READ realization 1/1, batch 1/1, samples 1-516 (516 samples) 0.0210 
+TRIM realization 1/1, batch 1/1, 516 -> 516 nearest neighbors 0.0056 
+----------------------------------------------------------------, 
+ZEROSCAN (non-symmetric distances) 0.0019 
+Total number of entries    = 266256 
+Number of nonzero elements = 265950 
+Number of zero elements    = 306 (516 samples ) 
+SYMMETRIZATION (nonzero entries) 0.0186 
+Number of nonzero elements = 266256 
+WRITE 516 samples, 516 nearest neighbors, 516.0000 average nearest neighbors per sample 0.0772 
+symmetrizeDistances finished on 2024/4/13 15:42:58.4 
